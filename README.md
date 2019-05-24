@@ -1,5 +1,5 @@
 # Todo-app-Node.js-and-EJS
-Todo app created using Node.js and EJS. 
+Todo app created using Node.js, Express and EJS. 
 
 The app have two routes:
 
